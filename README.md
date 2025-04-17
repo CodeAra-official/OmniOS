@@ -2,6 +2,8 @@
 
 OmniOS is a lightweight operating system written in 16-bit assembly, designed for simplicity and a deeper understanding of low-level programming.
 
+![OmniOS](IMG_20241215_114506_016.jpg)
+
 ## Features
 - **Simple Shell**: A minimal command-line interface to interact with the OS.
 - **Built-in Commands**: Includes basic commands for file navigation and output.
